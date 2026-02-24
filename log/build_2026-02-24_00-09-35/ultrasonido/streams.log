@@ -1,0 +1,22 @@
+[2.310s] Invoking command in '/home/samuel/Roboticaclase/ultrason_ws/scr/ultrasonido': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/ultrasonido build --build-base /home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/build install --record /home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/install.log --single-version-externally-managed install_data
+[2.891s] running egg_info
+[2.934s] writing ../build/ultrasonido/ultrasonido.egg-info/PKG-INFO
+[2.934s] writing dependency_links to ../build/ultrasonido/ultrasonido.egg-info/dependency_links.txt
+[2.935s] writing entry points to ../build/ultrasonido/ultrasonido.egg-info/entry_points.txt
+[2.935s] writing requirements to ../build/ultrasonido/ultrasonido.egg-info/requires.txt
+[2.935s] writing top-level names to ../build/ultrasonido/ultrasonido.egg-info/top_level.txt
+[3.024s] reading manifest file '../build/ultrasonido/ultrasonido.egg-info/SOURCES.txt'
+[3.024s] adding license file 'LICENSE'
+[3.025s] writing manifest file '../build/ultrasonido/ultrasonido.egg-info/SOURCES.txt'
+[3.025s] running build
+[3.026s] running build_py
+[3.026s] running install
+[3.040s] running install_lib
+[3.084s] running install_data
+[3.084s] running install_egg_info
+[3.130s] removing '/home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/lib/python3.12/site-packages/ultrasonido-0.0.0-py3.12.egg-info' (and everything under it)
+[3.130s] Copying ../build/ultrasonido/ultrasonido.egg-info to /home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/lib/python3.12/site-packages/ultrasonido-0.0.0-py3.12.egg-info
+[3.132s] running install_scripts
+[3.417s] Installing ultra script to /home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/lib/ultrasonido
+[3.418s] writing list of installed files to '/home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/install.log'
+[3.476s] Invoked command in '/home/samuel/Roboticaclase/ultrason_ws/scr/ultrasonido' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/ultrasonido build --build-base /home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/build install --record /home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/install.log --single-version-externally-managed install_data

@@ -1,0 +1,6 @@
+source;share/obstaculo/hook/pythonpath.ps1
+source;share/obstaculo/hook/pythonpath.dsv
+source;share/obstaculo/hook/pythonpath.sh
+source;share/obstaculo/hook/ament_prefix_path.ps1
+source;share/obstaculo/hook/ament_prefix_path.dsv
+source;share/obstaculo/hook/ament_prefix_path.sh

@@ -1,0 +1,6 @@
+source;share/ultrasonido/hook/pythonpath.ps1
+source;share/ultrasonido/hook/pythonpath.dsv
+source;share/ultrasonido/hook/pythonpath.sh
+source;share/ultrasonido/hook/ament_prefix_path.ps1
+source;share/ultrasonido/hook/ament_prefix_path.dsv
+source;share/ultrasonido/hook/ament_prefix_path.sh

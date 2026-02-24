@@ -1,0 +1,34 @@
+running egg_info
+creating ../build/ultrasonido/ultrasonido.egg-info
+writing ../build/ultrasonido/ultrasonido.egg-info/PKG-INFO
+writing dependency_links to ../build/ultrasonido/ultrasonido.egg-info/dependency_links.txt
+writing requirements to ../build/ultrasonido/ultrasonido.egg-info/requires.txt
+writing top-level names to ../build/ultrasonido/ultrasonido.egg-info/top_level.txt
+writing manifest file '../build/ultrasonido/ultrasonido.egg-info/SOURCES.txt'
+reading manifest file '../build/ultrasonido/ultrasonido.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../build/ultrasonido/ultrasonido.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/build
+creating /home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/build/lib
+creating /home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/build/lib/ultrasonido
+copying ultrasonido/__init__.py -> /home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/build/lib/ultrasonido
+copying ultrasonido/ultra.py -> /home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/build/lib/ultrasonido
+running install
+running install_lib
+creating /home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/lib/python3.12/site-packages/ultrasonido
+copying /home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/build/lib/ultrasonido/__init__.py -> /home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/lib/python3.12/site-packages/ultrasonido
+copying /home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/build/lib/ultrasonido/ultra.py -> /home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/lib/python3.12/site-packages/ultrasonido
+byte-compiling /home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/lib/python3.12/site-packages/ultrasonido/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/lib/python3.12/site-packages/ultrasonido/ultra.py to ultra.cpython-312.pyc
+running install_data
+creating /home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/share/ament_index
+creating /home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/share/ament_index/resource_index
+creating /home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/share/ament_index/resource_index/packages
+copying resource/ultrasonido -> /home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/share/ament_index/resource_index/packages
+copying package.xml -> /home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/share/ultrasonido
+running install_egg_info
+Copying ../build/ultrasonido/ultrasonido.egg-info to /home/samuel/Roboticaclase/ultrason_ws/scr/install/ultrasonido/lib/python3.12/site-packages/ultrasonido-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/samuel/Roboticaclase/ultrason_ws/scr/build/ultrasonido/install.log'
